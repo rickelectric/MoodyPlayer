@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="moodplayer/util/Base64Coder.java|moodplayer/test/Base64Test.java|moodplayer/api/echonest/EchoAPITest.java|moodplayer/api/echonest/EchonestAPI.java|moodplayer/api/echonest/EchoTest4.java|de/ksquared/system/keyboard/|moodplayer/util/Camera.java|moodplayer/util/WebcamAccess.java|moodplayer/CameraTest.java|moodplayer/api/mood/EchoMood.java|moodplayer/api/mood/EchoMoods.java|moodplayer/api/mood/MoodDialog.java|de/ksquared/system/|de/ksquared/|de/|moodplayer/test/|moodplayer/api/mood/|moodplayer/models/streamer/LemonResult.java|moodplayer/EmotionMeter.java|moodplayer/exception/Test.java|moodplayer/views/swingmods/FadeList.java|moodplayer/views/swingmods/JFadeScrollPane.java|moodplayer/views/swingmods/JFadeTextField.java|moodplayer/views/swingmods/TranslucentPane.java|moodplayer/player/playlist/MultiPlaylistLoader.java|moodplayer/player/playlist/MultiPlaylistRunner.java|moodplayer/player/playlist/QueuePlaylistRunner.java|moodplayer/SetupWizard.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8 x64"/>
+	<classpathentry kind="lib" path="lib/fmj/fmj.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons-lang-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/mp3agic.jar"/>
+	<classpathentry kind="lib" path="lib/JSON.jar"/>
+	<classpathentry kind="lib" path="lib/webcam-capture-0.3.10-RC4.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/JJIL-J2SE.jar"/>
+	<classpathentry kind="lib" path="lib/JJILCore.jar"/>
+	<classpathentry kind="lib" path="lib/JNativeHook.jar"/>
+	<classpathentry kind="lib" path="lib/libs/bridj-0.7-20130703.103049-42.jar"/>
+	<classpathentry kind="lib" path="lib/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/jEN.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/VLCJ.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-nop-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
